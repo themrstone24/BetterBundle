@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "switch": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": {
+          "slots": {
+            "weapon.offhand": {
+              "items": "minecraft:bundle"
+            }
+          }
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "bb:switch_bundle"
+  }
+}

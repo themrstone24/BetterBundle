@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "better_bundle": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:reference",
+            "name": "bb:bundle_unstackable"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "function": "bb:better_bundle"
+  },
+  "sends_telemetry_event": false
+}

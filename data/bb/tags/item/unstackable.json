@@ -51,6 +51,12 @@
     "minecraft:music_disc_wait",
     "minecraft:music_disc_ward",
     "minecraft:shears",
-    "minecraft:wolf_armor"
+    "minecraft:wolf_armor",
+    "minecraft:minecart",
+    "minecraft:chest_minecart",
+    "minecraft:command_block_minecart",
+    "minecraft:furnace_minecart",
+    "minecraft:hopper_minecart",
+    "minecraft:tnt_minecart"
   ]
 }

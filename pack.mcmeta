@@ -1,6 +1,6 @@
 {
-    "pack": {
-        "pack_format": 48,
-        "description": "Improve the bundle by setting unstackable to occupy 16 slots instead of 64"
-    }
+  "pack": {
+    "pack_format": 48,
+    "description": "Improve the bundle by setting unstackable to occupy 16 slots instead of 64"
+  }
 }

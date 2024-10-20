@@ -57,6 +57,9 @@
     "minecraft:command_block_minecart",
     "minecraft:furnace_minecart",
     "minecraft:hopper_minecart",
-    "minecraft:tnt_minecart"
+    "minecraft:tnt_minecart",
+    "minecraft:fishing_rod",
+    "minecraft:carrot_on_a_stick",
+    "minecraft:warped_fungus_on_a_stick"
   ]
 }

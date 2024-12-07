@@ -60,6 +60,11 @@
     "minecraft:tnt_minecart",
     "minecraft:fishing_rod",
     "minecraft:carrot_on_a_stick",
-    "minecraft:warped_fungus_on_a_stick"
+    "minecraft:warped_fungus_on_a_stick",
+    "minecraft:diamond_horse_armor",
+    "minecraft:golden_horse_armor",
+    "minecraft:iron_horse_armor",
+    "minecraft:leather_horse_armor",
+    "minecraft:trident"
   ]
 }

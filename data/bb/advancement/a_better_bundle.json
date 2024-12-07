@@ -6,14 +6,14 @@
         "player": [
           {
             "condition": "minecraft:reference",
-            "name": "bb:bundle_unstackable"
+            "name": "bb:p_better_bundle"
           }
         ]
       }
     }
   },
   "rewards": {
-    "function": "bb:better_bundle"
+    "function": "bb:f_better_bundle"
   },
   "sends_telemetry_event": false
 }

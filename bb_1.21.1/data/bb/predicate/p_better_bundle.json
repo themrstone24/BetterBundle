@@ -7,7 +7,7 @@
       "predicate": {
         "slots": {
           "inventory.*": {
-            "items": "#minecraft:bundles"
+            "items": "#bb:t_bundles"
           }
         }
       }
@@ -18,7 +18,7 @@
       "predicate": {
         "slots": {
           "hotbar.*": {
-            "items": "#minecraft:bundles"
+            "items": "#bb:t_bundles"
           }
         }
       }
@@ -29,7 +29,7 @@
       "predicate": {
         "slots": {
           "weapon.offhand": {
-            "items": "#minecraft:bundles"
+            "items": "#bb:t_bundles"
           }
         }
       }

@@ -1,0 +1,11 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:bundle_contents": [
+      {
+        "id": "minecraft:stone",
+        "count": 12
+      }
+    ]
+  }
+}

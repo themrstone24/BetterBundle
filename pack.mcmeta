@@ -2,5 +2,13 @@
   "pack": {
     "pack_format": 61,
     "description": "Improve the bundle by setting unstackable to occupy 16 slots instead of 64"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "bb_1.21.1",
+        "formats": 48
+      }
+    ]
   }
 }

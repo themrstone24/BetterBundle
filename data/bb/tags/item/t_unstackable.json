@@ -65,6 +65,8 @@
     "minecraft:golden_horse_armor",
     "minecraft:iron_horse_armor",
     "minecraft:leather_horse_armor",
-    "minecraft:flint_and_steel"
+    "minecraft:flint_and_steel",
+    "minecraft:brush",
+    "minecraft:spyglass"
   ]
 }
